@@ -1,5 +1,11 @@
 # Coffee Sales Performance Dashboard
 **Coffee Sales Performance Dashboard**
+
+## Dashboard Preview
+
+![Dashboard Preview](dashboard-preview.png)
+
+
 **Project Overview**
 
 This project analyzes transactional coffee sales data to identify revenue trends, product performance, and regional insights. The goal was to transform raw sales data into an executive-style dashboard that supports data-driven decision-making.
