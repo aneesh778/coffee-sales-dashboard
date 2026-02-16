@@ -1,29 +1,29 @@
 # coffee-sales-dashboard
-Coffee Sales Performance Dashboard
-Project Overview
+**Coffee Sales Performance Dashboard**
+**Project Overview**
 
 This project analyzes transactional coffee sales data to identify revenue trends, product performance, and regional insights. The goal was to transform raw sales data into an executive-style dashboard that supports data-driven decision-making.
 
-Tools Used
+Tools Used:
 
-Microsoft Excel
+-Microsoft Excel
 
-Pivot Tables
+-Pivot Tables
 
-XLOOKUP
+-XLOOKUP
 
-Data Cleaning & Transformation
+-Data Cleaning & Transformation
 
-KPI Visualization
+-KPI Visualization
 
-Key Insights
+**Key Insights**
 
-Identified highest revenue-generating product categories
+-Identified highest revenue-generating product categories
 
-Analyzed regional sales performance trends
+-Analyzed regional sales performance trends
 
-Built interactive KPI dashboard for business reporting
+-Built interactive KPI dashboard for business reporting
 
-Business Value
+**Business Value**
 
 This dashboard provides clear visibility into sales performance and supports strategic decision-making through structured data analysis and visualization.
